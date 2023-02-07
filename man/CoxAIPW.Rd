@@ -62,13 +62,4 @@ aipw = CoxAIPW(data)
 # extract beta and model SE estimate
 logHR = aipw$beta
 modelSE = aipw$model_se
-
-# A toy example for estimating SE using Bayesian bootstraps with 5 bootstrap runs.
-set.seed(4)
-boot_n = 5
-boot_betas = rep(0, boot_n)
-for (i in 1:boot_n) {
-  boot_betas[i] = CoxAIPW(data, tau = max(data$time), weights = rexp(nrow(data)))$beta
-}
-bootSE = sd(boot_betas)
 }
