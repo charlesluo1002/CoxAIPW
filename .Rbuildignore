@@ -3,4 +3,4 @@
 ^\.travis\.yml$
 ^\.github$
 ^CRAN-SUBMISSION$
-^cran-comments.md
+^cran-comments.md$

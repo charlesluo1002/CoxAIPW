@@ -1,3 +1,12 @@
+## Second Submission to CRAN, version 0.0.2
+
+> Possibly misspelled words in DESCRIPTION:
+  Luo (10:768)
+  Rava (10:820)
+  Xu (10:774)
+
+These are author names.
+
 ## First Submission to CRAN, version 0.0.1
 
 The first submission of the `CoxAIPW` package
