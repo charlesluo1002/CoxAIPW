@@ -1,3 +1,14 @@
+## Third Submission to CRAN, version 0.0.3
+
+> checking CRAN incoming feasibility ... NOTE  Maintainer: 'Jiyu Luo <charlesluo1002@gmail.com>'    Possibly misspelled words in DESCRIPTION:    CoxAIPW (10:810)> checking for non-standard things in the check directory ... NOTE  > checking for detritus in the temp directory ... NOTE  Found the following files/directories:    'lastMiKTeXException'0 errors ✔ | 0 warnings ✔ | 3 notes ✖
+
+Notes:
+* All 3 notes are non-issues that appeared in earlier submissions as well.
+
+
+
+
+
 ## Second Submission to CRAN, version 0.0.2
 
 > Possibly misspelled words in DESCRIPTION:
@@ -6,6 +17,9 @@
   Xu (10:774)
 
 These are author names.
+
+
+
 
 ## First Submission to CRAN, version 0.0.1
 
